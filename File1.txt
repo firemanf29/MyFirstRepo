@@ -1,2 +1,3 @@
 This is some text
 Adding change on main branch
+Adding this change on the conflict branch
